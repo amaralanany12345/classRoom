@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "kiB04KKic3VFlXNCWKvCx1Gq81X9NUERVzKNCNIQIH0=",
+  "Source": "ClassRoom",
+  "BasePath": "_content/ClassRoom",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ClassRoom\\wwwroot",
+      "Source": "ClassRoom",
+      "ContentRoot": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\",
+      "BasePath": "_content/ClassRoom",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\male-student.png",
+      "SourceId": "ClassRoom",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\",
+      "BasePath": "_content/ClassRoom",
+      "RelativePath": "files/male-student#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "638xitgria",
+      "Integrity": "Mk0l3sgGQgciffV5I6fYWKq+c8Dj+ekyupoTDKvYwV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\male-student.png"
+    },
+    {
+      "Identity": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\next.png",
+      "SourceId": "ClassRoom",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\",
+      "BasePath": "_content/ClassRoom",
+      "RelativePath": "files/next#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ya3i3htxj1",
+      "Integrity": "OrhA3bLE73BLD3UEuUk9c2d2g0/3hy7Rg7LPbWhSv24=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\next.png"
+    },
+    {
+      "Identity": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\save (4).pdf",
+      "SourceId": "ClassRoom",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\",
+      "BasePath": "_content/ClassRoom",
+      "RelativePath": "files/save (4)#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pr2hbkeqx8",
+      "Integrity": "RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\save (4).pdf"
+    },
+    {
+      "Identity": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\up-down.png",
+      "SourceId": "ClassRoom",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\",
+      "BasePath": "_content/ClassRoom",
+      "RelativePath": "files/up-down#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pl0cmmn554",
+      "Integrity": "DSwNponbpycEXVp3EdTI9+HAxSefQNnhiQB6dOkd0dE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\up-down.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "files/male-student.638xitgria.png",
+      "AssetFile": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\male-student.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mk0l3sgGQgciffV5I6fYWKq+c8Dj+ekyupoTDKvYwV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 09:38:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "638xitgria"
+        },
+        {
+          "Name": "label",
+          "Value": "files/male-student.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mk0l3sgGQgciffV5I6fYWKq+c8Dj+ekyupoTDKvYwV8="
+        }
+      ]
+    },
+    {
+      "Route": "files/male-student.png",
+      "AssetFile": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\male-student.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mk0l3sgGQgciffV5I6fYWKq+c8Dj+ekyupoTDKvYwV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 09:38:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mk0l3sgGQgciffV5I6fYWKq+c8Dj+ekyupoTDKvYwV8="
+        }
+      ]
+    },
+    {
+      "Route": "files/next.png",
+      "AssetFile": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\next.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OrhA3bLE73BLD3UEuUk9c2d2g0/3hy7Rg7LPbWhSv24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 09:39:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OrhA3bLE73BLD3UEuUk9c2d2g0/3hy7Rg7LPbWhSv24="
+        }
+      ]
+    },
+    {
+      "Route": "files/next.ya3i3htxj1.png",
+      "AssetFile": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\next.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OrhA3bLE73BLD3UEuUk9c2d2g0/3hy7Rg7LPbWhSv24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 09:39:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ya3i3htxj1"
+        },
+        {
+          "Name": "label",
+          "Value": "files/next.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OrhA3bLE73BLD3UEuUk9c2d2g0/3hy7Rg7LPbWhSv24="
+        }
+      ]
+    },
+    {
+      "Route": "files/save (4).pdf",
+      "AssetFile": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\save (4).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 09:38:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE="
+        }
+      ]
+    },
+    {
+      "Route": "files/save (4).pr2hbkeqx8.pdf",
+      "AssetFile": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\save (4).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Nov 2024 09:38:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pr2hbkeqx8"
+        },
+        {
+          "Name": "label",
+          "Value": "files/save (4).pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RUOxyo2wSqhbwgdtccl8yBDfQ6NARRf1Cn5uG7GN/XE="
+        }
+      ]
+    },
+    {
+      "Route": "files/up-down.pl0cmmn554.png",
+      "AssetFile": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\up-down.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DSwNponbpycEXVp3EdTI9+HAxSefQNnhiQB6dOkd0dE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:16:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pl0cmmn554"
+        },
+        {
+          "Name": "label",
+          "Value": "files/up-down.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DSwNponbpycEXVp3EdTI9+HAxSefQNnhiQB6dOkd0dE="
+        }
+      ]
+    },
+    {
+      "Route": "files/up-down.png",
+      "AssetFile": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\up-down.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DSwNponbpycEXVp3EdTI9+HAxSefQNnhiQB6dOkd0dE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 10:16:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DSwNponbpycEXVp3EdTI9+HAxSefQNnhiQB6dOkd0dE="
+        }
+      ]
+    }
+  ]
+}

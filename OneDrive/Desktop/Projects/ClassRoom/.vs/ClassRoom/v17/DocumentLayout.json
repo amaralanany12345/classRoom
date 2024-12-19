@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ClassRoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|d:\\projects\\classroom\\classroom\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|solutionrelative:classroom\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|d:\\projects\\classroom\\classroom\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|solutionrelative:classroom\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|d:\\projects\\classroom\\classroom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|solutionrelative:classroom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|d:\\projects\\classroom\\classroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|solutionrelative:classroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|d:\\projects\\classroom\\classroom\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|solutionrelative:classroom\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|d:\\projects\\classroom\\classroom\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3848D882-180D-457A-BFDA-C039FF094B86}|ClassRoom\\ClassRoom.csproj|solutionrelative:classroom\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\ClassRoom\\ClassRoom\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClassRoom\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\ClassRoom\\ClassRoom\\AppDbContext.cs",
+              "RelativeToolTip": "ClassRoom\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:24:16.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\ClassRoom\\ClassRoom\\appsettings.json",
+              "RelativeDocumentMoniker": "ClassRoom\\appsettings.json",
+              "ToolTip": "D:\\Projects\\ClassRoom\\ClassRoom\\appsettings.json",
+              "RelativeToolTip": "ClassRoom\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T09:13:14.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ClassRoom\\ClassRoom\\Program.cs",
+              "RelativeDocumentMoniker": "ClassRoom\\Program.cs",
+              "ToolTip": "D:\\Projects\\ClassRoom\\ClassRoom\\Program.cs",
+              "RelativeToolTip": "ClassRoom\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:27:46.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Projects\\ClassRoom\\ClassRoom\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "ClassRoom\\Services\\StudentService.cs",
+              "ToolTip": "D:\\Projects\\ClassRoom\\ClassRoom\\Services\\StudentService.cs",
+              "RelativeToolTip": "ClassRoom\\Services\\StudentService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:08:40.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\Projects\\ClassRoom\\ClassRoom\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "ClassRoom\\Models\\Token.cs",
+              "ToolTip": "D:\\Projects\\ClassRoom\\ClassRoom\\Models\\Token.cs",
+              "RelativeToolTip": "ClassRoom\\Models\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:38:07.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Projects\\ClassRoom\\ClassRoom\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ClassRoom\\Models\\Student.cs",
+              "ToolTip": "D:\\Projects\\ClassRoom\\ClassRoom\\Models\\Student.cs",
+              "RelativeToolTip": "ClassRoom\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:37:43.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

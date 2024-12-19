@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\male-student.png",
+      "PackagePath": "staticwebassets\\files\\male-student.png"
+    },
+    {
+      "Id": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\next.png",
+      "PackagePath": "staticwebassets\\files\\next.png"
+    },
+    {
+      "Id": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\save (4).pdf",
+      "PackagePath": "staticwebassets\\files\\save (4).pdf"
+    },
+    {
+      "Id": "D:\\Projects\\ClassRoom\\ClassRoom\\wwwroot\\files\\up-down.png",
+      "PackagePath": "staticwebassets\\files\\up-down.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ClassRoom.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ClassRoom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ClassRoom.props",
+      "PackagePath": "build\\ClassRoom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ClassRoom.props",
+      "PackagePath": "buildMultiTargeting\\ClassRoom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ClassRoom.props",
+      "PackagePath": "buildTransitive\\ClassRoom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
